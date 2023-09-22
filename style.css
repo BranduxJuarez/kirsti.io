@@ -36,7 +36,7 @@ body {
 }
 
 .text-below {
-    bottom: -163px; /* Ajusta la posición vertical del texto debajo de la flor */
+    bottom: -148px; /* Ajusta la posición vertical del texto debajo de la flor */
 }
 
 .text-below1 {
@@ -51,7 +51,7 @@ a{
   cursor: pointer; /* Cambia el cursor al estilo de un enlace al pasar el mouse */
 }
 .text-below1 {
-  bottom: -194px; /* Ajusta la posición vertical del texto debajo de la flor */
+  bottom: -179px; /* Ajusta la posición vertical del texto debajo de la flor */
 }
 
 
