@@ -28,22 +28,22 @@ body {
     position: absolute;
     text-align: center;
     color: #fff; /* Color del texto */
-    font-size: 25px; /* Tamaño del texto */
+    font-size: 16px; /* Tamaño del texto */
 }
 
 .text-above {
-    top: -60px; /* Ajusta la posición vertical del texto arriba de la flor */
+    top: -36px; /* Ajusta la posición vertical del texto arriba de la flor */
 }
 
 .text-below {
-    bottom: -200px; /* Ajusta la posición vertical del texto debajo de la flor */
+    bottom: -163px; /* Ajusta la posición vertical del texto debajo de la flor */
 }
 
 .text-below1 {
   position: absolute;
   text-align: center;
   color: #ffbb00; /* Color del texto */
-  font-size: 25px; /* Tamaño del texto */
+  font-size: 20px; /* Tamaño del texto */
 }
 a{
   text-decoration: none; /* Elimina el subrayado */
@@ -51,7 +51,7 @@ a{
   cursor: pointer; /* Cambia el cursor al estilo de un enlace al pasar el mouse */
 }
 .text-below1 {
-  bottom: -234px; /* Ajusta la posición vertical del texto debajo de la flor */
+  bottom: -194px; /* Ajusta la posición vertical del texto debajo de la flor */
 }
 
 
